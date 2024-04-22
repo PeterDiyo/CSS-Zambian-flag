@@ -1,3 +1,3 @@
-# html-css-flag Zambian flag
+# html-css Zambian flag
 
 This is the Zambian design using css.
